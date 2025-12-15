@@ -5,7 +5,7 @@
                 "data": {
                     "name": "Name",
                     "host": "Host, like https://api.day.app",
-                    "token": "Device token"
+                    "token": "API KEY (the part after https://api.day.app/)"
                 },
                 "title": "Setup"
             }
@@ -17,7 +17,7 @@
                 "data": {
                     "name": "Name",
                     "host": "Host, like https://api.day.app",
-                    "token": "Device token"
+                    "token": "API KEY (the part after https://api.day.app/)"
                 },
                 "title": "Setup"
             }
