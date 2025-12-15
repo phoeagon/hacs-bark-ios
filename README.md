@@ -1,7 +1,7 @@
 # Home Assistant - HACS - Bark notification
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
-This could be added to HACS on Home Assistant for notification push via Bark.
+This could be added to HACS on Home Assistant for notification push via [Bark](https://github.com/Finb/Bark/).
 
 This repository could be cloned and [installed via HACS](https://www.hacs.xyz/).
 
@@ -22,3 +22,6 @@ is a separate concept in Bark).
 3. Search for "Bark"
 4. Fill in the texts, then click on "Perform Actions"
    
+## Notes
+
+[Bark](https://github.com/Finb/Bark/) is an iOS notification app.
